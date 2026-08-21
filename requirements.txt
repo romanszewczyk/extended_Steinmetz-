@@ -1,0 +1,11 @@
+# The analysis pipeline: fits, statistics, tables and figures.
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+
+# Tested with Python 3.12.3, numpy 2.4.4, scipy 1.17.1 and matplotlib 3.10.8.
+# Nothing outside pip is needed to rebuild the results.
+#
+# Re-running the finite-element identification is a separate matter and needs
+# Elmer with ElmerSolver_mpi, NETGEN, OpenMPI and, for two of the three cases,
+# GNU Octave. See docs/documentation.md.

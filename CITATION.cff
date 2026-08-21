@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+title: >-
+  Power losses and effective conductivity of a nanocrystalline ribbon
+  toroidal core with symmetrical air gaps: data and analysis code
+message: >-
+  If you use these data or this code, please cite the archived release
+  listed under identifiers.
+type: dataset
+abstract: >-
+  Core losses of one FINEMET-type nanocrystalline ribbon toroidal core,
+  measured from 50 Hz to 20 kHz at six temperatures between 20 and 120 C in
+  three states: ungapped, with two symmetrical 0.17 mm air gaps, and with
+  two symmetrical 0.47 mm air gaps. For each of the 126 operating points a
+  three-dimensional finite-element model was tuned until it reproduced the
+  measured loss; the tuned scalar is the effective conductivity of the
+  homogenised core material. The repository holds the measured losses, the
+  identified conductivities, the finite-element cases that produced them,
+  and the analysis code that fits and compares four descriptions of their
+  frequency dependence.
+authors:
+  - given-names: Roman
+    family-names: Szewczyk
+    email: roman.szewczyk@pw.edu.pl
+    affiliation: Warsaw University of Technology
+  - given-names: Anna
+    family-names: Ostaszewska-Liżewska
+    affiliation: Warsaw University of Technology
+  - given-names: Przemysław
+    family-names: Zackiewicz
+    affiliation: Łukasiewicz Research Network - Institute of Non-ferrous Metals
+  - given-names: Adam
+    family-names: Pilśniak
+    affiliation: Łukasiewicz Research Network - Institute of Non-ferrous Metals
+  - given-names: Marcin
+    family-names: Polak
+    affiliation: Łukasiewicz Research Network - Institute of Non-ferrous Metals
+  - given-names: Adrian
+    family-names: Radoń
+    affiliation: Łukasiewicz Research Network - Institute of Non-ferrous Metals
+  - given-names: Aleksandra
+    family-names: Kolano-Burian
+    affiliation: Łukasiewicz Research Network - Institute of Non-ferrous Metals
+license: MIT
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.XXXXXXX
+    description: >-
+      Archived release of this repository. XXXXXXX is a placeholder; replace
+      it with the identifier issued when the archive is deposited.
+keywords:
+  - nanocrystalline alloys
+  - soft magnetic materials
+  - core loss
+  - Steinmetz equation
+  - air gap
+  - effective conductivity
+  - finite-element modelling
+  - toroidal core
