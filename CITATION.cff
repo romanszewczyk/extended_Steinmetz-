@@ -43,7 +43,7 @@ authors:
 license: MIT
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.XXXXXXX
+    value: 10.5281/zenodo.22050197
     description: >-
       Archived release of this repository. XXXXXXX is a placeholder; replace
       it with the identifier issued when the archive is deposited.
