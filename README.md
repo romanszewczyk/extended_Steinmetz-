@@ -148,14 +148,14 @@ any case means editing that file and regenerating everything downstream, and
 
 Citation metadata is in `CITATION.cff`. The archived release carries
 
-    doi:10.5281/zenodo.XXXXXXX
+    doi:10.5281/zenodo.22050197
 
 `XXXXXXX` is a placeholder written so that it cannot be mistaken for a
 resolvable identifier. Replace it with the one issued when the archive is
 deposited:
 
 ```bash
-grep -rl '10.5281/zenodo.XXXXXXX' .
+grep -rl '10.5281/zenodo.22050197' .
 ```
 
 ## Licence
